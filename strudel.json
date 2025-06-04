@@ -1,5 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/kaiye10/strudelSamples/main/",
-    "kick": ["amen/cw_amen_finger.wav"]
-
+    "finger": ["amen/cw_amen_finger.wav"],
+    "apache": ["amen/cw_amen_apache.wav"],
+    "idm": ["amen/cw_amen_idm.wav"],
+    "jungle": ["amen/cw_amen_jungle.wav"]
 }
